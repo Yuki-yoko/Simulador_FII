@@ -1,5 +1,7 @@
 # 📊 Simulador de Investimentos em Fundos Imobiliários (FIIs) – Excel
 
+📥 [Baixar planilha Excel](https://drive.google.com/drive/folders/19fTTncCUgHq3bWkFvgt2x4jca8EcmjwN?usp=sharing)
+
 ## 📌 Descrição do Projeto
 Este projeto foi desenvolvido como parte de um **desafio prático da DIO**, com o objetivo de aplicar conceitos de **Microsoft Excel** na criação de uma ferramenta de **simulação de investimentos em Fundos Imobiliários (FIIs)**.
 
@@ -46,11 +48,12 @@ Ao desenvolver este projeto, foram aplicados os seguintes conceitos:
 
 ## 📂 Estrutura do Repositório
 ```
-📁 invest_smart-excel
+📁 Simulador_FII
   ├── 📄 README.md
   ├── 📊 simulador_FII.xlsx
-  └── 📁 images (opcional)
-       └── 📷 capturas-de-tela-da-planilha.png
+  └── 📁 images 
+       └── 📷 capturas-de-tela-da-planilha1.png
+       └── 📷 capturas-de-tela-da-planilha2.png
 ```       
 ---
 
