@@ -50,10 +50,9 @@ Ao desenvolver este projeto, foram aplicados os seguintes conceitos:
 ```
 📁 Simulador_FII
   ├── 📄 README.md
-  ├── 📊 simulador_FII.xlsx
-  └── 📁 images 
-       └── 📷 capturas-de-tela-da-planilha1.png
-       └── 📷 capturas-de-tela-da-planilha2.png
+  ├── 📊 simulador_FII.xlsx 
+  └── 📷 capturas-de-tela-da-planilha1.png
+  └── 📷 capturas-de-tela-da-planilha2.png
 ```       
 ---
 
