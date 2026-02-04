@@ -45,12 +45,13 @@ Ao desenvolver este projeto, foram aplicados os seguintes conceitos:
 ---
 
 ## 📂 Estrutura do Repositório
+```
 📁 invest_smart-excel
   ├── 📄 README.md
   ├── 📊 simulador_FII.xlsx
   └── 📁 images (opcional)
        └── 📷 capturas-de-tela-da-planilha.png
-       
+```       
 ---
 
 ## 🚀 Conclusão
